@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/monstersrolodex/static/css/main.af1d31c0.chunk.css",
+    "main.css": "/monstersrolodex/static/css/main.295f4b2a.chunk.css",
     "main.js": "/monstersrolodex/static/js/main.e9bc9d9c.chunk.js",
     "main.js.map": "/monstersrolodex/static/js/main.e9bc9d9c.chunk.js.map",
     "runtime-main.js": "/monstersrolodex/static/js/runtime-main.dbd6355d.js",
@@ -9,10 +9,10 @@
     "static/js/2.448cb2ba.chunk.js": "/monstersrolodex/static/js/2.448cb2ba.chunk.js",
     "static/js/2.448cb2ba.chunk.js.map": "/monstersrolodex/static/js/2.448cb2ba.chunk.js.map",
     "index.html": "/monstersrolodex/index.html",
-    "precache-manifest.e3f17aca05148aab0d95714dcba14a9e.js": "/monstersrolodex/precache-manifest.e3f17aca05148aab0d95714dcba14a9e.js",
+    "precache-manifest.ba7a5e2719eee5e6c9693876621ffc04.js": "/monstersrolodex/precache-manifest.ba7a5e2719eee5e6c9693876621ffc04.js",
     "service-worker.js": "/monstersrolodex/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/monstersrolodex/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.af1d31c0.chunk.css.map": "/monstersrolodex/static/css/main.af1d31c0.chunk.css.map",
+    "static/css/main.295f4b2a.chunk.css.map": "/monstersrolodex/static/css/main.295f4b2a.chunk.css.map",
     "static/js/2.448cb2ba.chunk.js.LICENSE": "/monstersrolodex/static/js/2.448cb2ba.chunk.js.LICENSE",
     "static/media/App.css": "/monstersrolodex/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.dbd6355d.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.448cb2ba.chunk.js",
-    "static/css/main.af1d31c0.chunk.css",
+    "static/css/main.295f4b2a.chunk.css",
     "static/js/main.e9bc9d9c.chunk.js"
   ]
 }
